@@ -1,4 +1,4 @@
 # repo-demo
 This is  my first repository
 <br>
-Author: Rahul Lashkari
+Author: (Rahul Lashkari)
